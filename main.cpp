@@ -8,6 +8,7 @@
  * - Various optimizations and code refinements
  *
  * Modified and enhanced by: celebred
+ * UC Thread: https://www.unknowncheats.me/forum/valorant/702198-hookloader-fork.html
  */
 
 #include "utils.hpp"
